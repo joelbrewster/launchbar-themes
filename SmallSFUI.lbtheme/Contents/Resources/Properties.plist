@@ -19,9 +19,9 @@
 	<key>inputAreaBlackTextColor</key>
 	<string>@defaultTextColor</string>
 	<key>inputAreaAbbreviationFontName</key>
-	<string>Optima</string>
+	<string>SF UI Text</string>
 	<key>inputAreaAbbreviationFontSize</key>
-	<integer>10</integer>
+	<integer>12</integer>
 	<key>inputAreaAbbreviationInputProgressIndicationOffset</key>
 	<integer>1</integer>
 	<key>inputAreaActionMenuAreaTextShadowColor</key>
