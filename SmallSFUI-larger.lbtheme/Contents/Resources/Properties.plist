@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>defaultBoldFontName</key>
-	<string>SF UI Text Bold</string>
+	<string>SF UI Text</string>
 	<key>defaultFontName</key>
 	<string>SF UI Text</string>
 	<key>defaultShadowOffset</key>
@@ -44,13 +44,13 @@
 	<key>inputAreaDefocusedItemFontName</key>
 	<string>@defaultFontName</string>
 	<key>inputAreaDefocusedItemFontSize</key>
-	<integer>13</integer>
+	<integer>15</integer>
 	<key>inputAreaDimmedTextColor</key>
 	<string>#808080</string>
 	<key>inputAreaFocusedItemFontName</key>
 	<string>@defaultBoldFontName</string>
 	<key>inputAreaFocusedItemFontSize</key>
-	<integer>13</integer>
+	<integer>15</integer>
 	<key>inputAreaHeight</key>
 	<integer>30</integer>
 	<key>inputAreaIconSize</key>
@@ -90,7 +90,7 @@
 	<key>itemListExtraDetailsFontName</key>
 	<string>@defaultFontName</string>
 	<key>itemListExtraDetailsFontSize</key>
-	<integer>11</integer>
+	<integer>12</integer>
 	<key>itemListExtraDetailsTextColor</key>
 	<string>#808080</string>
 	<key>itemListGridLineHeight</key>
@@ -116,7 +116,7 @@
 	<key>itemListLabeledExtraDetailsDeemphasizedFontName</key>
 	<string>@defaultFontName</string>
 	<key>itemListLabeledExtraDetailsDeemphasizedFontSize</key>
-	<integer>11</integer>
+	<integer>12</integer>
 	<key>itemListLabeledExtraDetailsFontName</key>
 	<string>@defaultBoldFontName</string>
 	<key>itemListLabeledExtraDetailsFontSize</key>
@@ -134,9 +134,9 @@
 	<key>itemListNavigationArrowPaddingRight</key>
 	<integer>4</integer>
 	<key>itemListRowHeight</key>
-	<integer>24</integer>
+	<integer>30</integer>
 	<key>itemListScrollerPadding</key>
-	<real>2</real>
+	<integer>2</integer>
 	<key>itemListSeparatorLowerLineThickness</key>
 	<integer>0</integer>
 	<key>itemListSeparatorUpperLineColor</key>
@@ -160,7 +160,7 @@
 	<key>itemListSubtitleFontName</key>
 	<string>@defaultFontName</string>
 	<key>itemListSubtitleFontSize</key>
-	<integer>11</integer>
+	<integer>12</integer>
 	<key>itemListSubtitleTextColor</key>
 	<string>#808080</string>
 	<key>itemListTitleBaselineOffset</key>
@@ -172,7 +172,7 @@
 	<key>itemListTitleFontName</key>
 	<string>@defaultBoldFontName</string>
 	<key>itemListTitleFontSize</key>
-	<integer>13</integer>
+	<integer>15</integer>
 	<key>itemListTitleIncreasedFontSize</key>
 	<string>@itemListTitleFontSize</string>
 	<key>itemListTitleTextColor</key>
