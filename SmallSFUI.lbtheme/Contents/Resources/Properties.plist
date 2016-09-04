@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>defaultBoldFontName</key>
-	<string>SF UI Text Bold</string>
+	<string>Input Regular</string>
 	<key>defaultFontName</key>
-	<string>SF UI Text</string>
+	<string>Input</string>
 	<key>defaultShadowOffset</key>
 	<string>1 -1</string>
 	<key>defaultTextColor</key>
@@ -19,7 +19,7 @@
 	<key>inputAreaBlackTextColor</key>
 	<string>@defaultTextColor</string>
 	<key>inputAreaAbbreviationFontName</key>
-	<string>SF UI Text</string>
+	<string>Input</string>
 	<key>inputAreaAbbreviationFontSize</key>
 	<integer>12</integer>
 	<key>inputAreaAbbreviationInputProgressIndicationOffset</key>
